@@ -1,0 +1,512 @@
+{
+    "karapopik.ru": {
+        "url_length": 12, 
+        "no_of_out_of_place_features": 3348, 
+        "terms": [
+            "({id", 
+            "w.opera", 
+            "==", 
+            "\"[", 
+            "object", 
+            "Opera", 
+            "]\")", 
+            ");", 
+            "(\"DOMContentLoaded", 
+            "/metrika", 
+            "text", 
+            "||", 
+            "();", 
+            "s.async", 
+            "};", 
+            "/javascript", 
+            "[c", 
+            "[]).", 
+            "clickmap", 
+            "d.addEventListener", 
+            "yandex", 
+            "w.yaCounter", 
+            "24594515", 
+            "(function", 
+            "_metrika", 
+            "http", 
+            "webvisor", 
+            "(e", 
+            "d.getElementsByTagName", 
+            "(\"script", 
+            "f", 
+            "(", 
+            "window", 
+            "n.parentNode.insertBefore", 
+            "(s", 
+            "n", 
+            "s.type", 
+            "Ya.Metrika", 
+            "var", 
+            ":true", 
+            "trackLinks", 
+            "accurateTrackBounce", 
+            "function", 
+            "d.createElement", 
+            "d.location.protocol", 
+            "})(", 
+            "document", 
+            "()", 
+            "\"//", 
+            "});", 
+            ":\")", 
+            "trackLink", 
+            "c", 
+            "mc.yandex.ru", 
+            "s.src"
+        ], 
+        "nameservers": 2, 
+        "tags_count": {
+            "script": 15, 
+            "object": 0, 
+            "html": 1, 
+            "href": 69, 
+            "iframe": 0, 
+            "embed": 0
+        }, 
+        "special_char_count": 1, 
+        "reg_date": null, 
+        "no_of_redirects": 6, 
+        "location": "Russianfederation", 
+        "ip_check": 0
+    }, 
+    "aceparking.com.au": {
+        "url_length": 17, 
+        "no_of_out_of_place_features": 4426, 
+        "terms": [
+            "ace", 
+            "Car", 
+            "Park", 
+            "Solution", 
+            "Parking", 
+            "Professional"
+        ], 
+        "nameservers": 2, 
+        "tags_count": {
+            "script": 9, 
+            "object": 0, 
+            "html": 1, 
+            "href": 36, 
+            "iframe": 0, 
+            "embed": 0
+        }, 
+        "special_char_count": 1, 
+        "reg_date": null, 
+        "no_of_redirects": 2, 
+        "location": "Australia", 
+        "ip_check": 0
+    }, 
+    "beautiful-words.ws": {
+        "url_length": 18, 
+        "no_of_out_of_place_features": 1070, 
+        "terms": [
+            "self.location", 
+            "self.location.href", 
+            "top.location", 
+            "//", 
+            "", 
+            ">", 
+            "!=", 
+            "<!"
+        ], 
+        "nameservers": 2, 
+        "tags_count": {
+            "script": 14, 
+            "object": 0, 
+            "html": 1, 
+            "href": 107, 
+            "iframe": 1, 
+            "embed": 0
+        }, 
+        "special_char_count": 1, 
+        "reg_date": null, 
+        "no_of_redirects": 5, 
+        "location": "208.43.224.192", 
+        "ip_check": 0
+    }, 
+    "robinskaplan.com": {
+        "url_length": 16, 
+        "no_of_out_of_place_features": 4169, 
+        "terms": [
+            "url", 
+            "import", 
+            "(\"/content", 
+            "print"
+        ], 
+        "nameservers": 2, 
+        "tags_count": {
+            "script": 32, 
+            "object": 0, 
+            "html": 1, 
+            "href": 164, 
+            "iframe": 1, 
+            "embed": 0
+        }, 
+        "special_char_count": 1, 
+        "reg_date": "14-feb-2000", 
+        "no_of_redirects": 0, 
+        "location": "Unitedstates", 
+        "ip_check": 0
+    }, 
+    "jkpopradio.com": {
+        "url_length": 14, 
+        "no_of_out_of_place_features": 6690, 
+        "terms": [
+            "\u0e1f\u0e31\u0e07\u0e40\u0e1e\u0e25\u0e07\u0e40\u0e01\u0e32\u0e2b\u0e25\u0e35", 
+            "\u0e27\u0e34\u0e17\u0e22\u0e38\u0e2d\u0e2d\u0e19\u0e44\u0e25\u0e19\u0e4c", 
+            "\ufeff", 
+            "\u0e1f\u0e31\u0e07\u0e27\u0e34\u0e17\u0e22\u0e38\u0e2d\u0e2d\u0e19\u0e44\u0e25\u0e19\u0e4c"
+        ], 
+        "nameservers": 2, 
+        "tags_count": {
+            "script": 5, 
+            "object": 0, 
+            "html": 1, 
+            "href": 57, 
+            "iframe": 2, 
+            "embed": 0
+        }, 
+        "special_char_count": 1, 
+        "reg_date": "30-mar-2012", 
+        "no_of_redirects": 3, 
+        "location": "Thailand", 
+        "ip_check": 0
+    }, 
+    "webl0g.ir": {
+        "url_length": 9, 
+        "no_of_out_of_place_features": 936, 
+        "terms": [
+            "function", 
+            "(html", 
+            "html.className.replace", 
+            "(/\\bno"
+        ], 
+        "nameservers": 2, 
+        "tags_count": {
+            "script": 8, 
+            "object": 0, 
+            "html": 1, 
+            "href": 226, 
+            "iframe": 0, 
+            "embed": 0
+        }, 
+        "special_char_count": 1, 
+        "reg_date": null, 
+        "no_of_redirects": 2, 
+        "location": "Germany", 
+        "ip_check": 0
+    }, 
+    "indotravelers.com": {
+        "url_length": 17, 
+        "no_of_out_of_place_features": 847, 
+        "terms": [
+            "Petualangan", 
+            "Dan", 
+            "IndoTraveler", 
+            "Portal", 
+            "Wisata"
+        ], 
+        "nameservers": 2, 
+        "tags_count": {
+            "script": 14, 
+            "object": 1, 
+            "html": 1, 
+            "href": 215, 
+            "iframe": 1, 
+            "embed": 1
+        }, 
+        "special_char_count": 1, 
+        "reg_date": "11-may-2006", 
+        "no_of_redirects": 2, 
+        "location": "Indonesia", 
+        "ip_check": 0
+    }, 
+    "jcc.co.uk": {
+        "url_length": 9, 
+        "no_of_out_of_place_features": 6376, 
+        "terms": [], 
+        "nameservers": 2, 
+        "tags_count": {
+            "script": 34, 
+            "object": 0, 
+            "html": 1, 
+            "href": 94, 
+            "iframe": 0, 
+            "embed": 0
+        }, 
+        "special_char_count": 1, 
+        "reg_date": null, 
+        "no_of_redirects": 0, 
+        "location": "Unitedkingdom", 
+        "ip_check": 0
+    }, 
+    "dartsmegastore.com": {
+        "url_length": 18, 
+        "no_of_out_of_place_features": 1158, 
+        "terms": [
+            "Megastore", 
+            "Dart"
+        ], 
+        "nameservers": 2, 
+        "tags_count": {
+            "script": 2, 
+            "object": 0, 
+            "html": 1, 
+            "href": 131, 
+            "iframe": 0, 
+            "embed": 0
+        }, 
+        "special_char_count": 1, 
+        "reg_date": "28-nov-2013", 
+        "no_of_redirects": 2, 
+        "location": "Unitedkingdom", 
+        "ip_check": 0
+    }, 
+    "volkovlaw.com": {
+        "url_length": 13, 
+        "no_of_out_of_place_features": 1415, 
+        "terms": [
+            "marketplace", 
+            "Volkov", 
+            "Law", 
+            "|", 
+            "challenge", 
+            "client", 
+            "time"
+        ], 
+        "nameservers": 2, 
+        "tags_count": {
+            "script": 10, 
+            "object": 0, 
+            "html": 1, 
+            "href": 27, 
+            "iframe": 0, 
+            "embed": 0
+        }, 
+        "special_char_count": 1, 
+        "reg_date": "01-feb-2013", 
+        "no_of_redirects": 2, 
+        "location": "Unitedstates", 
+        "ip_check": 0
+    }, 
+    "avisatour.com": {
+        "url_length": 13, 
+        "no_of_out_of_place_features": 11190, 
+        "terms": [], 
+        "nameservers": 2, 
+        "tags_count": {
+            "script": 23, 
+            "object": 0, 
+            "html": 1, 
+            "href": 146, 
+            "iframe": 0, 
+            "embed": 0
+        }, 
+        "special_char_count": 1, 
+        "reg_date": "18-jun-2013", 
+        "no_of_redirects": 2, 
+        "location": "Iran,islamicrepublicof", 
+        "ip_check": 0
+    }, 
+    "personalinfoonline.com": {
+        "url_length": 22, 
+        "no_of_out_of_place_features": null, 
+        "terms": null, 
+        "nameservers": 6, 
+        "tags_count": null, 
+        "special_char_count": 1, 
+        "reg_date": "23-oct-2012", 
+        "no_of_redirects": 3, 
+        "location": null, 
+        "ip_check": 0
+    }, 
+    "todaytrading.com": {
+        "url_length": 16, 
+        "no_of_out_of_place_features": 0, 
+        "terms": [
+            "access", 
+            "/", 
+            "use", 
+            "ErrorDocument", 
+            "permission", 
+            "Forbidden", 
+            "request", 
+            "403", 
+            "error", 
+            "server"
+        ], 
+        "nameservers": 2, 
+        "tags_count": {
+            "script": 0, 
+            "object": 0, 
+            "html": 1, 
+            "href": 0, 
+            "iframe": 0, 
+            "embed": 0
+        }, 
+        "special_char_count": 1, 
+        "reg_date": "09-dec-2004", 
+        "no_of_redirects": 6, 
+        "location": "Bulgaria", 
+        "ip_check": 0
+    }, 
+    "myfootshop.com": {
+        "url_length": 14, 
+        "no_of_out_of_place_features": 4660, 
+        "terms": [
+            "Myfootshop.com"
+        ], 
+        "nameservers": 5, 
+        "tags_count": {
+            "script": 18, 
+            "object": 0, 
+            "html": 1, 
+            "href": 185, 
+            "iframe": 0, 
+            "embed": 0
+        }, 
+        "special_char_count": 1, 
+        "reg_date": "29-jan-2001", 
+        "no_of_redirects": 5, 
+        "location": "Unitedstates", 
+        "ip_check": 0
+    }, 
+    "creativecommons.jp": {
+        "url_length": 18, 
+        "no_of_out_of_place_features": 1331, 
+        "terms": [
+            "\u30af\u30ea\u30a8\u30a4\u30c6\u30a3\u30d6\u30fb\u30b3\u30e2\u30f3\u30ba\u30fb\u30b8\u30e3\u30d1\u30f3"
+        ], 
+        "nameservers": 3, 
+        "tags_count": {
+            "script": 20, 
+            "object": 0, 
+            "html": 1, 
+            "href": 65, 
+            "iframe": 1, 
+            "embed": 0
+        }, 
+        "special_char_count": 1, 
+        "reg_date": null, 
+        "no_of_redirects": 6, 
+        "location": "Unitedstates", 
+        "ip_check": 0
+    }, 
+    "mawlny.com": {
+        "url_length": 10, 
+        "no_of_out_of_place_features": 572, 
+        "terms": [], 
+        "nameservers": 2, 
+        "tags_count": {
+            "script": 4, 
+            "object": 0, 
+            "html": 1, 
+            "href": 0, 
+            "iframe": 0, 
+            "embed": 0
+        }, 
+        "special_char_count": 1, 
+        "reg_date": "09-apr-2014", 
+        "no_of_redirects": 4, 
+        "location": "Unitedstates", 
+        "ip_check": 0
+    }, 
+    "thelogicofscience.com": {
+        "url_length": 21, 
+        "no_of_out_of_place_features": 8475, 
+        "terms": [
+            "Science", 
+            "Logic"
+        ], 
+        "nameservers": 3, 
+        "tags_count": {
+            "script": 33, 
+            "object": 0, 
+            "html": 1, 
+            "href": 535, 
+            "iframe": 1, 
+            "embed": 0
+        }, 
+        "special_char_count": 1, 
+        "reg_date": "11-feb-2015", 
+        "no_of_redirects": 1, 
+        "location": "Unitedstates", 
+        "ip_check": 0
+    }, 
+    "i-manuel.fr": {
+        "url_length": 11, 
+        "no_of_out_of_place_features": 6250, 
+        "terms": [
+            "currentServerRelativeUrl", 
+            "var", 
+            "fV", 
+            "_", 
+            "4UI", 
+            "'/';"
+        ], 
+        "nameservers": 3, 
+        "tags_count": {
+            "script": 30, 
+            "object": 0, 
+            "html": 1, 
+            "href": 9, 
+            "iframe": 0, 
+            "embed": 0
+        }, 
+        "special_char_count": 1, 
+        "reg_date": null, 
+        "no_of_redirects": 4, 
+        "location": "195.8.66.220", 
+        "ip_check": 0
+    }, 
+    "nowbosnia.azurewebsites.net": {
+        "url_length": 27, 
+        "no_of_out_of_place_features": 1318, 
+        "terms": [
+            "Runtime", 
+            "Error"
+        ], 
+        "nameservers": null, 
+        "tags_count": {
+            "script": 0, 
+            "object": 0, 
+            "html": 1, 
+            "href": 0, 
+            "iframe": 0, 
+            "embed": 0
+        }, 
+        "special_char_count": 1, 
+        "reg_date": "24-jan-2012", 
+        "no_of_redirects": null, 
+        "location": "Netherlands", 
+        "ip_check": 0
+    }, 
+    "besttvseries.org": {
+        "url_length": 16, 
+        "no_of_out_of_place_features": 923, 
+        "terms": [
+            "function", 
+            "(html", 
+            "html.className.replace", 
+            "(/\\bno"
+        ], 
+        "nameservers": 2, 
+        "tags_count": {
+            "script": 7, 
+            "object": 0, 
+            "html": 1, 
+            "href": 23, 
+            "iframe": 0, 
+            "embed": 0
+        }, 
+        "special_char_count": 1, 
+        "reg_date": null, 
+        "no_of_redirects": 3, 
+        "location": "Germany", 
+        "ip_check": 0
+    }
+}
