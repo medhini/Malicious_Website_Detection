@@ -333,7 +333,29 @@ def save_data(url):
 	return feature
 
 #add other features here...
+#------------newly added--------------------#
+def getIP(url):
+	try:	
+		ip = socket.gethostbyname(url)
+	except:
+		ip = 0
 
+	return ip
+
+def getASN(url):
+	ip = getIP(url)
+	url = 'https://www.ultratools.com/tools/asnInfoResult?domainName=' + str(ip)
+	url = urllib.urlopen(url)
+	soup = BeautifulSoup(url)
+	tr = soup.find('div', {'class' : 'tool-results-heading'})
+	try:	
+		asn =  int(tr.text[2:])
+	except:
+		asn = 0
+
+	return asn
+
+	
 url = "http://www.alexa.com/topsites/global;"
 i=0
 rdctr=0
