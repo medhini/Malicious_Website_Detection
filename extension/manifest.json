@@ -1,0 +1,25 @@
+{
+	"manifest_version": 2,
+	
+	"name": "My first plug-in",
+	"description": "Blah blah",
+	"version": "1.0",
+	
+	"browser_action": {
+		"default_icon": "icon.png",
+		"default_popup": "popup.html"
+	},
+	
+	"background": {
+		"scripts": ["popup.js"]
+	},
+	
+	"permissions": [
+		"activeTab",
+		"webRequest",
+		"*://*.google.com/",
+		"webRequestBlocking",
+		"tabs",
+		"<all_urls>"
+	]
+}
